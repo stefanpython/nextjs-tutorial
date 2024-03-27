@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "e08e1807b2cdef0985996f9d2933ca748145da08": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Ftao%2Ftutorials%2Fnextjs-tutorial%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "rsc"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "dS+lydhYNInp5jKNxC8j/r/wWXVoynK01TKF3laXUKk="
 }
